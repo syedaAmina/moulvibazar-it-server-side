@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01",
+    "name": "HTML",
+    "topics": 49,
+    "classes": 55,
+    "Duration": "27 Weeks",
+    "Difficulty": "Beginner",
+    "image": "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw",
+    "details": "Today, HTML knowledge is necessary for anyone who wants to build, manage or improve websites — from professional developers to marketers and small-time business owners. In this article, we'll cover HTML basics and explain what you need to know about the language before you start learning."
+  },
+  {
+    "id": "02",
+    "name": "CSS",
+    "classes": 51,
+    "topics": 25,
+    "Duration": "30 Weeks",
+    "Difficulty": "Beginner",
+    "image": "https://ostraining.com/wp-content/uploads/coding/html5-css3-hd.jpg",
+    "details": "Web designers needs to use few lines of programming for every page improving site speed. Cascading sheet not only simplifies website development, but also simplifies the maintenance as a change of one line of code affects the whole web site and maintenance time."
+  },
+  {
+    "id": "03",
+    "name": "JavaScript",
+    "topics": 56,
+    "classes": 70,
+    "Duration": "14 Weeks",
+    "Difficulty": "Intermediate",
+    "image": "https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png",
+    "details": "Develop familiarity with the JavaScript language. Learn to use best-practice idioms and patterns. Understand concepts commonly used in dynamic language programming, such as introspection, higher-order functions, and closures. Understand advanced language features such as prototypical interhitance."
+  },
+  {
+    "id": "04",
+    "name": "Mongodb",
+    "topics": 88,
+    "classes": 90,
+    "Duration": "31 Weeks",
+    "Difficulty": "Intermediate",
+    "image": "https://cdn.thenewstack.io/media/2021/07/3025c103-mongodb.png",
+    "details": "Gain insight into the 'Roles' played by MongoDB® experts.Learn how to design Schema using Advanced Queries.Troubleshoot Performance issues.Understand MongoDB® Aggregation framework.Learn MongoDB® Backup and Recovery options and strategies."
+  },
+  {
+    "id": "05",
+    "name": "React",
+    "topics": 20,
+    "classes": 35,
+    "Duration": "10 Weeks",
+    "Difficulty": "Advance",
+    "image": "http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png",
+    "details": "React JS is a JavaScript framework with 10 years of maturity and a huge community supporting its growth and development. But you shouldn't learn it in 2022. Here's why. First, a brief primer: React is currently the most popular front-end framework in the industry."
+  },
+  {
+    "id": "06",
+    "name": "Nodejs",
+    "topics": 116,
+    "classes": 120,
+    "Duration": "40 Weeks",
+    "Difficulty": "Advance",
+    "image": "https://usefulangle.com/img/thumb/nodejs.png",
+    "details": "Node. js development has become very popular over the last four years and continues to stand the competition in 2022 making startups worldwide choose it over other available options.High-performance for Real-time Applications. Easy Scalability for Modern Applications. Cost-effective with Fullstack JS."
+  }
+]
